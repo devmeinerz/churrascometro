@@ -8,7 +8,7 @@ html, body {
 body{
     overflow: hidden;
     background-color: black;
-    background-image: url("./assets/fundo_pagina2.jpg");
+    background-image: url("../assets/fundo_pagina2.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
