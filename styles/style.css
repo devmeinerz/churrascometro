@@ -79,6 +79,10 @@ button:hover{
     height: 40px;
     width: 160px;
 }
+#resultado{
+    text-align: center;
+    font-size: 1.1rem;
+}
 .links{
     display: flex;
     justify-content: space-between;
