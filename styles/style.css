@@ -50,6 +50,7 @@ input{
     height: 35px;
     border-style: none;
     box-sizing: border-box;
+    outline:none;
     display: block;
     margin: auto;
     margin-bottom: 12px;
